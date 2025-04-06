@@ -1,5 +1,3 @@
-# My-Webpage-Project
-Here's a GitHub README template tailored for your cosmetics webpage project:
 
 ---
 
